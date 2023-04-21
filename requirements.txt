@@ -63,7 +63,7 @@ rsa==3.4.2
 s3transfer==0.3.3
 serverlessrepo==0.1.9
 six==1.14.0
-sqlparse==0.3.1
+sqlparse==0.4.4
 stevedore==1.32.0
 stripe==2.45.0
 tomlkit==0.5.8
